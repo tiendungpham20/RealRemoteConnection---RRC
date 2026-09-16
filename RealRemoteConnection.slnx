@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RRC.Client/RRC.Client.csproj" />
+    <Project Path="src/RRC.Core/RRC.Core.csproj" />
+    <Project Path="src/RRC.Host/RRC.Host.csproj" />
+    <Project Path="src/RRC.Platform.Windows/RRC.Platform.Windows.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RRC.Core.Tests/RRC.Core.Tests.csproj" />
+  </Folder>
+</Solution>
